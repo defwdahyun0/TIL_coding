@@ -32,7 +32,7 @@
 ## 프로젝트
 
 | **Type** | **Date** | **Contents** | **Organization** | **Repository** | **Blog** |
-|:--------|:--------|:--------|:--------|:--------|
+|:--------|:--------|:--------|:--------|:--------|:--------|
 | **Collaborate** | 2021.04 ~ 2021.11 | findmap | hanium | private | |
 | **Collaborate** | 2021.04 ~ 2021.11 | bookcode | hanium | private | |
 | **Collaborate** | 2021.05 | Node.js Airbnb Clone Coding | SS | private | |
@@ -43,8 +43,8 @@
 ---
 ## 스터디
 
-| **Type** | **Date** | **Contents** | **Organization** | **Repository** |
-|:--------|:--------|:--------|:--------|:--------|
+| **Type** | **Date** | **Contents** | **Organization** | **Repository** | **Blog** |
+|:--------|:--------|:--------|:--------|:--------|:--------|
 | **MySelf** | 2021.08~ | Node.js 추가 공부 | x | [NodeJS_2021SummerStudy](https://github.com/defwdahyun0/NodeJS_2021SummerStudy) | |
 | **OnlineClass** | 2021.06~2021.07 | ReactNative 앱개발 종합반 | Sparta | [ReactNative_2021SummerStudy](https://github.com/defwdahyun0/ReactNative_2021SummerStudy) |  [스파르타코딩클럽 앱개발 종합반 수료 후기](https://nali.tistory.com/118?category=952461)|
 | **OnlineClass** | 2021.06~ | Flask 풀스택 | inflearn | [Flask_2021SummerStudy](https://github.com/defwdahyun0/Flask_2021SummerStudy) | |
