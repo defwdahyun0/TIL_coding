@@ -31,13 +31,13 @@
 ---
 ## 프로젝트
 
-| **Type** | **Date** | **Contents** | **Organization** | **Repository** |
+| **Type** | **Date** | **Contents** | **Organization** | **Repository** | **Blog** |
 |:--------|:--------|:--------|:--------|:--------|
-| **Collaborate** | 2021.04 ~ 2021.11 | findmap | hanium | private |
-| **Collaborate** | 2021.04 ~ 2021.11 | bookcode | hanium | private |
-| **Collaborate** | 2021.05 | Node.js Airbnb Clone Coding | SS | private |
-| **Toy** | 2021.03 ~ 2021.05 | Node.js NaverWebtoon Clone Coding | SS| private |
-| **Collaborate** | 2021.01 ~ 2021.03 | ReactNative Keyword App Coding | DJC | private |
+| **Collaborate** | 2021.04 ~ 2021.11 | findmap | hanium | private | |
+| **Collaborate** | 2021.04 ~ 2021.11 | bookcode | hanium | private | |
+| **Collaborate** | 2021.05 | Node.js Airbnb Clone Coding | SS | private | |
+| **Toy** | 2021.03 ~ 2021.05 | Node.js NaverWebtoon Clone Coding | SS| private | |
+| **Collaborate** | 2021.01 ~ 2021.03 | ReactNative Keyword App Coding | DJC | private | |
 | **Toy** | 2020.04 ~ 2020.05 | SpringBoot Web basic |  | private |
 
 ---
@@ -45,18 +45,18 @@
 
 | **Type** | **Date** | **Contents** | **Organization** | **Repository** |
 |:--------|:--------|:--------|:--------|:--------|
-| **MySelf** | 2021.08~ | Node.js 추가 공부 | x | [NodeJS_2021SummerStudy](https://github.com/defwdahyun0/NodeJS_2021SummerStudy) |
-| **OnlineClass** | 2021.06~2021.07 | ReactNative 온라인 완주반 | Sparta | [ReactNative_2021SummerStudy](https://github.com/defwdahyun0/ReactNative_2021SummerStudy) |
-| **OnlineClass** | 2021.06~ | Flask 풀스택 | inflearn | [Flask_2021SummerStudy](https://github.com/defwdahyun0/Flask_2021SummerStudy) |
-| **MySelf** | 2021.06~ | 챗봇 스터디 | x | [Chatbot_2021SummerStudy](https://github.com/defwdahyun0/Chatbot_2021SummerStudy) |
-| **OnlineClass** | 2021.06 | git 기초강의, git leader 선정 | inflearn | private |
-|**OnlineClass** | 2021.04 | Gitrini | inflearn | private |
-| **OnlineClass** | 2021.04 | 개발자를 위한 SQL 데이터베이스 | codeit | private |
-| **OnlineClass** | 2021.03 | 프로그래밍 기초 in Python | codeit | private |
-| **Collaborate** | 2021.03~2021.05 | 대학생 코딩캠프 | codeit | x |
-| **Collaborate** | 2021.03~2021.05 | Backend Study | SS | [Backend_2021SpringStudy](https://github.com/defwdahyun0/Backend_2021SpringStudy) |
-| **Collaborate** | 2021.01~2021.03 | Computer Science Study | DJC | [CS_2021WinterStudy](https://github.com/defwdahyun0/CS_2021WinterStudy) |
-| **Collaborate** | 2021.01~2021.03 | Problem Solving Study | DJC | [PS_2021WinterStudy](https://github.com/defwdahyun0/PS_2021WinterStudy) |
-| **Book** | 2021.01~2021.03 | ReactNative | 처음 배우는 리액트 네이티브 | updating |
-| **OnlineClass** | 2021.01 | JavaScript | opentutorials | [JS_2021WinterStudy](https://github.com/defwdahyun0/JS_2021WinterStudy) |
-| **Book** | 2019.08 | HTML,CSS | hellocoding | [HTMLCSS_2019SummerStudy](https://github.com/defwdahyun0/HTMLCSS_2019SummerStudy) |
+| **MySelf** | 2021.08~ | Node.js 추가 공부 | x | [NodeJS_2021SummerStudy](https://github.com/defwdahyun0/NodeJS_2021SummerStudy) | |
+| **OnlineClass** | 2021.06~2021.07 | ReactNative 앱개발 종합반 | Sparta | [ReactNative_2021SummerStudy](https://github.com/defwdahyun0/ReactNative_2021SummerStudy) |  [스파르타코딩클럽 앱개발 종합반 수료 후기](https://nali.tistory.com/118?category=952461)|
+| **OnlineClass** | 2021.06~ | Flask 풀스택 | inflearn | [Flask_2021SummerStudy](https://github.com/defwdahyun0/Flask_2021SummerStudy) | |
+| **MySelf** | 2021.06~ | 챗봇 스터디 | x | [Chatbot_2021SummerStudy](https://github.com/defwdahyun0/Chatbot_2021SummerStudy) | |
+| **OnlineClass** | 2021.06 | git 기초강의, git leader 선정 | inflearn | private | |
+|**OnlineClass** | 2021.04 | Gitrini | inflearn | private | |
+| **OnlineClass** | 2021.04 | 개발자를 위한 SQL 데이터베이스 | codeit | private | |
+| **OnlineClass** | 2021.03 | 프로그래밍 기초 in Python | codeit | private | |
+| **Collaborate** | 2021.03~2021.05 | 대학생 코딩캠프 | codeit | x | |
+| **Collaborate** | 2021.03~2021.05 | Backend Study | SS | [Backend_2021SpringStudy](https://github.com/defwdahyun0/Backend_2021SpringStudy) | |
+| **Collaborate** | 2021.01~2021.03 | Computer Science Study | DJC | [CS_2021WinterStudy](https://github.com/defwdahyun0/CS_2021WinterStudy) | |
+| **Collaborate** | 2021.01~2021.03 | Problem Solving Study | DJC | [PS_2021WinterStudy](https://github.com/defwdahyun0/PS_2021WinterStudy) | |
+| **Book** | 2021.01~2021.03 | ReactNative | 처음 배우는 리액트 네이티브 | updating | |
+| **OnlineClass** | 2021.01 | JavaScript | opentutorials | [JS_2021WinterStudy](https://github.com/defwdahyun0/JS_2021WinterStudy) | |
+| **Book** | 2019.08 | HTML,CSS | hellocoding | [HTMLCSS_2019SummerStudy](https://github.com/defwdahyun0/HTMLCSS_2019SummerStudy) | |
