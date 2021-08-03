@@ -37,8 +37,8 @@
 | **Collaborate** | 2021.04 ~ 2021.11 | bookcode | hanium | private | |
 | **Collaborate** | 2021.05 | Node.js Airbnb Clone Coding | SS | private | |
 | **Toy** | 2021.03 ~ 2021.05 | Node.js NaverWebtoon Clone Coding | SS| private | |
-| **Collaborate** | 2021.01 ~ 2021.03 | ReactNative Keyword App Coding | DJC | private | |
-| **Toy** | 2020.04 ~ 2020.05 | SpringBoot Web basic |  | private |
+| **Collaborate** | 2021.01 ~ 2021.03 | ReactNative Keyword App Coding | DJC | private | [ReactNative 공지 알림 앱 개발](https://nali.tistory.com/119)|
+| **Toy** | 2020.04 ~ 2020.05 | SpringBoot Web basic | comento | [SpringBoot 시각화 홈페이지 개발](https://nali.tistory.com/117)|
 
 ---
 ## 스터디
@@ -46,7 +46,7 @@
 | **Type** | **Date** | **Contents** | **Organization** | **Repository** | **Blog** |
 |:--------|:--------|:--------|:--------|:--------|:--------|
 | **MySelf** | 2021.08~ | Node.js 추가 공부 | x | [NodeJS_2021SummerStudy](https://github.com/defwdahyun0/NodeJS_2021SummerStudy) | |
-| **OnlineClass** | 2021.06 ~ 2021.07 | ReactNative 앱개발 종합반 | Sparta | [ReactNative_2021SummerStudy](https://github.com/defwdahyun0/ReactNative_2021SummerStudy) |[스파르타코딩클럽 앱개발 종합반 수료 후기](https://nali.tistory.com/118?category=952461)|
+| **OnlineClass** | 2021.06 ~ 2021.07 | ReactNative 앱개발 종합반 | Sparta | [ReactNative_2021SummerStudy](https://github.com/defwdahyun0/ReactNative_2021SummerStudy) |[스파르타코딩클럽 앱개발 종합반 수료 후기](https://nali.tistory.com/118)|
 | **OnlineClass** | 2021.06 ~ | Flask 풀스택 | inflearn | [Flask_2021SummerStudy](https://github.com/defwdahyun0/Flask_2021SummerStudy) | |
 | **MySelf** | 2021.06 ~ | 챗봇 스터디 | x | [Chatbot_2021SummerStudy](https://github.com/defwdahyun0/Chatbot_2021SummerStudy) | |
 | **OnlineClass** | 2021.06 | git 기초강의, git leader 선정 | inflearn | private | |
