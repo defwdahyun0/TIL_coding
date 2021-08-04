@@ -52,7 +52,6 @@
 | **OnlineClass** | 2021.06 | git 기초강의, git leader 선정 | hanium | private | |
 |**OnlineClass** | 2021.04 | Gitrini | inflearn | private | |
 | **OnlineClass** | 2021.04 | 개발자를 위한 SQL 데이터베이스 | codeit | private | |
-| **OnlineClass** | 2021.03 | 프로그래밍 기초 in Python | codeit | private | |
 | **Collaborate** | 2021.03 ~ 2021.05 | 대학생 코딩캠프 | codeit | | |
 | **Collaborate** | 2021.03 ~ 2021.05 | Backend Study | SS | [Backend_2021SpringStudy](https://github.com/defwdahyun0/Backend_2021SpringStudy) | |
 | **Collaborate** | 2021.01 ~ 2021.03 | Computer Science Study | DJC | [CS_2021WinterStudy](https://github.com/defwdahyun0/CS_2021WinterStudy) | |
