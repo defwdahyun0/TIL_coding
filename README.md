@@ -55,7 +55,7 @@
 | **Collaborate** | 2021.03 ~ 2021.05 | 대학생 코딩캠프 | codeit | | |
 | **Collaborate** | 2021.03 ~ 2021.05 | Backend Study | SS | [Backend_2021SpringStudy](https://github.com/defwdahyun0/Backend_2021SpringStudy) | |
 | **Collaborate** | 2021.01 ~ 2021.03 | Computer Science Study | DJC | [CS_2021WinterStudy](https://github.com/defwdahyun0/CS_2021WinterStudy) | |
-| **Collaborate** | 2021.01 ~ 2021.03 | Problem Solving Study | DJC | [PS_2021WinterStudy](https://github.com/defwdahyun0/PS_2021WinterStudy) | |
+| **Collaborate** | 2021.01 ~ 2021.03 | Problem Solving Study | DJC | [PS_2021WinterStudy](https://github.com/defwdahyun0/PS_2021WinterStudy) [PS_2021WinterPractice](https://github.com/defwdahyun0/PS_2021WinterPractice) | |
 | **Book** | 2021.01 ~ 2021.03 | ReactNative | 처음 배우는 리액트 네이티브 | [ReactNative_2021WinterStudy](https://github.com/defwdahyun0/ReactNative_2021WinterStudy) | |
 | **OnlineClass** | 2021.01 | JavaScript | opentutorials | [JS_2021WinterStudy](https://github.com/defwdahyun0/JS_2021WinterStudy) | |
 | **Book** | 2019.08 | HTML,CSS | hellocoding | [HTMLCSS_2019SummerStudy](https://github.com/defwdahyun0/HTMLCSS_2019SummerStudy) | [HelloCoding HTML5+CSS3 책 리뷰](https://nali.tistory.com/120)|
