@@ -35,8 +35,8 @@
 |:--------|:--------|:--------|:--------|:--------|:--------|
 | **Collaborate** | 2021.04 ~ 2021.11 | findmap | hanium | private | |
 | **Collaborate** | 2021.04 ~ 2021.11 | bookcode | hanium | private | |
-| **Collaborate** | 2021.05 | Node.js Airbnb Clone Coding | SS | [airbnb-Server](https://github.com/defwdahyun0/airbnb-Server) |  |
-| **Toy** | 2021.03 ~ 2021.05 | Node.js NaverWebtoon Clone Coding | SS| [naverWebtoon-Server](https://github.com/defwdahyun0/naverWebtoon-Server) | |
+| **Collaborate** | 2021.05 | Node.js Airbnb Clone Coding | SS | [airbnb-Server](https://github.com/defwdahyun0/airbnb-Server) | [Nodejs 에어비앤비 클론 서버 개발](https://nali.tistory.com/122) |
+| **Toy** | 2021.03 ~ 2021.05 | Node.js NaverWebtoon Clone Coding | SS| [naverWebtoon-Server](https://github.com/defwdahyun0/naverWebtoon-Server) | [Nodejs 네이버웹툰 클론 서버 개발](https://nali.tistory.com/121) |
 | **Collaborate** | 2021.01 ~ 2021.03 | ReactNative Keyword App Coding | DJC | [Keyword_Notification](https://github.com/julie0005/Keyword_Notification) | [ReactNative 공지 알림 앱 개발](https://nali.tistory.com/119)|
 | **Toy** | 2020.04 ~ 2020.05 | SpringBoot Web basic | comento | [web_basic](https://github.com/defwdahyun0/web_basic) | [SpringBoot 시각화 홈페이지 개발](https://nali.tistory.com/117)|
 
@@ -52,10 +52,10 @@
 | **OnlineClass** | 2021.06 | git 기초강의, git leader 선정 | hanium | private | |
 |**OnlineClass** | 2021.04 | Gitrini | inflearn | private | |
 | **OnlineClass** | 2021.04 | 개발자를 위한 SQL 데이터베이스 | codeit | private | |
-| **Collaborate** | 2021.03 ~ 2021.05 | 대학생 코딩캠프 | codeit | | |
-| **Collaborate** | 2021.03 ~ 2021.05 | Backend Study | SS | [Backend_2021SpringStudy](https://github.com/defwdahyun0/Backend_2021SpringStudy) | |
-| **Collaborate** | 2021.01 ~ 2021.03 | Computer Science Study | DJC | [CS_2021WinterStudy](https://github.com/defwdahyun0/CS_2021WinterStudy) | |
-| **Collaborate** | 2021.01 ~ 2021.03 | Problem Solving Study | DJC | [PS_2021WinterStudy](https://github.com/defwdahyun0/PS_2021WinterStudy) [PS_2021WinterPractice](https://github.com/defwdahyun0/PS_2021WinterPractice) | |
-| **Book** | 2021.01 ~ 2021.03 | ReactNative | 처음 배우는 리액트 네이티브 | [ReactNative_2021WinterStudy](https://github.com/defwdahyun0/ReactNative_2021WinterStudy) | |
-| **OnlineClass** | 2021.01 | JavaScript | opentutorials | [JS_2021WinterStudy](https://github.com/defwdahyun0/JS_2021WinterStudy) | |
-| **Book** | 2019.08 | HTML,CSS | hellocoding | [HTMLCSS_2019SummerStudy](https://github.com/defwdahyun0/HTMLCSS_2019SummerStudy) | [HelloCoding HTML5+CSS3 책 리뷰](https://nali.tistory.com/120)|
+| **Collaborate** | 2021.03 ~ 2021.05 | 대학생 코딩캠프 | codeit | | [대학생 코딩캠프 후기](https://nali.tistory.com/128) |
+| **Collaborate** | 2021.03 ~ 2021.05 | Backend Study | SS | [Backend_2021SpringStudy](https://github.com/defwdahyun0/Backend_2021SpringStudy) | [소프트스퀘어드 서버 수료 후기](https://nali.tistory.com/126) |
+| **Collaborate** | 2021.01 ~ 2021.03 | Computer Science Study | DJC | [CS_2021WinterStudy](https://github.com/defwdahyun0/CS_2021WinterStudy) | [알고리즘/컴퓨터사이언스 스터디 회고](https://nali.tistory.com/125) |
+| **Collaborate** | 2021.01 ~ 2021.03 | Problem Solving Study | DJC | [PS_2021WinterStudy](https://github.com/defwdahyun0/PS_2021WinterStudy) [PS_2021WinterPractice](https://github.com/defwdahyun0/PS_2021WinterPractice) | [알고리즘/컴퓨터사이언스 스터디 회고](https://nali.tistory.com/125) |
+| **Book** | 2021.01 ~ 2021.03 | ReactNative | 처음 배우는 리액트 네이티브 | [ReactNative_2021WinterStudy](https://github.com/defwdahyun0/ReactNative_2021WinterStudy) | [처음 배우는 리액트 네이티브 리뷰](https://nali.tistory.com/124) |
+| **OnlineClass** | 2021.01 | JavaScript | opentutorials | [JS_2021WinterStudy](https://github.com/defwdahyun0/JS_2021WinterStudy) | [생활코딩 자바스크립트 인강 후기](https://nali.tistory.com/123)|
+| **Book** | 2019.08 | HTML,CSS | hellocoding | [HTMLCSS_2019SummerStudy](https://github.com/defwdahyun0/HTMLCSS_2019SummerStudy) | [HelloCoding HTML5+CSS3 리뷰](https://nali.tistory.com/120)|
