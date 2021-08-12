@@ -49,10 +49,11 @@
 | **OnlineClass** | 2021.06 ~ 2021.07 | ReactNative 앱개발 종합반 | Sparta | [ReactNative_2021SummerStudy](https://github.com/defwdahyun0/ReactNative_2021SummerStudy) |[스파르타코딩클럽 앱개발 종합반 수료 후기](https://nali.tistory.com/118)|
 | **OnlineClass** | 2021.06 ~ | Flask 풀스택 | inflearn | [Flask_2021SummerStudy](https://github.com/defwdahyun0/Flask_2021SummerStudy) | |
 | **MySelf** | 2021.06 ~ | 챗봇 스터디 | | [Chatbot_2021SummerStudy](https://github.com/defwdahyun0/Chatbot_2021SummerStudy) | |
-| **OnlineClass** | 2021.06 | git 기초강의, git leader 선정 | hanium | private | |
-|**OnlineClass** | 2021.04 | Gitrini | inflearn | private | |
-| **OnlineClass** | 2021.04 | 개발자를 위한 SQL 데이터베이스 | codeit | private | |
-| **Collaborate** | 2021.03 ~ 2021.05 | 대학생 코딩캠프 | codeit | x | [코드잇 대학생 코딩캠프 4기 수료 후기](https://nali.tistory.com/128) |
+| **OnlineClass** | 2021.06 | git 기초강의, git leader 선정 | hanium |  | |
+|**OnlineClass** | 2021.04 | Gitrini | inflearn |  | |
+| **OnlineClass** | 2021.04 | 머신 러닝 실전 | codeit |  | [코드잇 머신 러닝 실전 후기](https://nali.tistory.com/135)|
+| **OnlineClass** | 2021.04 | 개발자를 위한 SQL 데이터베이스 | codeit |  | [코드잇 개발자를 위한 SQL 데이터베이스 후기](https://nali.tistory.com/134) |
+| **Collaborate** | 2021.03 ~ 2021.05 | 대학생 코딩캠프 | codeit |  | [코드잇 대학생 코딩캠프 4기 수료 후기](https://nali.tistory.com/128) |
 | **Collaborate** | 2021.03 ~ 2021.05 | Backend Study | SS | [Backend_2021SpringStudy](https://github.com/defwdahyun0/Backend_2021SpringStudy) | [소프트스퀘어드 서버 수료 후기](https://nali.tistory.com/126) |
 | **Collaborate** | 2021.01 ~ 2021.03 | Computer Science Study | DJC | [CS_2021WinterStudy](https://github.com/defwdahyun0/CS_2021WinterStudy) | [알고리즘/컴퓨터사이언스 스터디 회고](https://nali.tistory.com/125) |
 | **Collaborate** | 2021.01 ~ 2021.03 | Problem Solving Study | DJC | [PS_2021WinterStudy](https://github.com/defwdahyun0/PS_2021WinterStudy) [PS_2021WinterPractice](https://github.com/defwdahyun0/PS_2021WinterPractice) | [알고리즘/컴퓨터사이언스 스터디 회고](https://nali.tistory.com/125) |
