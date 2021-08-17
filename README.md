@@ -53,7 +53,7 @@
 | **OnlineClass** | 2021.06 | git 기초강의, git leader 선정 | hanium | x | |
 |**OnlineClass** | 2021.04 | Gitrini | inflearn | x | |
 | **OnlineClass** | 2021.04 | 머신 러닝 실전 | codeit | x | [코드잇 머신 러닝 실전 후기](https://nali.tistory.com/135)|
-| **OnlineClass** | 2021.04 | 개발자를 위한 SQL 데이터베이스 | codeit | x | [코드잇 개발자를 위한 SQL 데이터베이스 후기](https://nali.tistory.com/134) |
+| **OnlineClass** | 2021.04 | 개발자를 위한 SQL 데이터베이스 | codeit | x | [코드잇 개발자를 위한 SQL 데이터베이스 후기](https://nali.tistory.com/130) |
 | **Collaborate** | 2021.03 ~ 2021.05 | 대학생 코딩캠프 | codeit | x | [코드잇 대학생 코딩캠프 4기 수료 후기](https://nali.tistory.com/128) |
 | **Collaborate** | 2021.03 ~ 2021.05 | Backend Study | SS | [Backend_2021SpringStudy](https://github.com/defwdahyun0/Backend_2021SpringStudy) | [소프트스퀘어드 서버 수료 후기](https://nali.tistory.com/126) |
 | **Collaborate** | 2021.01 ~ 2021.03 | Computer Science Study | DJC | [CS_2021WinterStudy](https://github.com/defwdahyun0/CS_2021WinterStudy) | [알고리즘/컴퓨터사이언스 스터디 회고](https://nali.tistory.com/125) |
