@@ -51,7 +51,7 @@
 | **OnlineClass** | 2021.08 | 알고보면 알기쉬운 알고리즘 | Sparta | | |
 | **OnlineClass** | 2021.06 ~ 2021.07 | ReactNative 앱개발 종합반 | Sparta | [ReactNative_2021SummerStudy](https://github.com/defwdahyun0/ReactNative_2021SummerStudy) |[스파르타코딩클럽 앱개발 종합반 수료 후기](https://nali.tistory.com/118)|
 | **OnlineClass** | 2021.06 | git 기초강의, git leader 선정 | hanium | x | |
-|**OnlineClass** | 2021.04 | Gitrini | inflearn | x | |
+|**OnlineClass** | 2021.05 | 코딩은 실전이다! - Git알못을 위한 깃린이코스(Git, Github 실습위주) | inflearn | x | |
 | **OnlineClass** | 2021.04 | 머신 러닝 실전 | codeit | x | [코드잇 머신 러닝 실전 후기](https://nali.tistory.com/135)|
 | **OnlineClass** | 2021.04 | 개발자를 위한 SQL 데이터베이스 | codeit | x | [코드잇 개발자를 위한 SQL 데이터베이스 후기](https://nali.tistory.com/130) |
 | **Collaborate** | 2021.03 ~ 2021.05 | 대학생 코딩캠프 | codeit | x | [코드잇 대학생 코딩캠프 4기 수료 후기](https://nali.tistory.com/128) |
