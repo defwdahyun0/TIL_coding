@@ -47,7 +47,7 @@
 |:--------|:--------|:--------|:--------|:--------|:--------|
 | **MySelf** | 2021.09~ | Node.js 스터디 | | [NodeJS_2021SummerStudy](https://github.com/defwdahyun0/NodeJS_2021SummerStudy) | |
 | **OnlineClass** | 2021.09 ~ | Flask 풀스택 | inflearn | [Flask_2021SummerStudy](https://github.com/defwdahyun0/Flask_2021SummerStudy) | |
-| **MySelf** | 2021.08 | SpringBoot 스터디 | | | |
+| **OnlineClass** | 2021.08 | 웹개발의 봄, Spring | Sparta | | |
 | **OnlineClass** | 2021.08 | 알고보면 알기쉬운 알고리즘 | Sparta | | |
 | **OnlineClass** | 2021.06 ~ 2021.07 | ReactNative 앱개발 종합반 | Sparta | [ReactNative_2021SummerStudy](https://github.com/defwdahyun0/ReactNative_2021SummerStudy) |[스파르타코딩클럽 앱개발 종합반 수료 후기](https://nali.tistory.com/118)|
 | **OnlineClass** | 2021.06 | git 기초강의 (git leader 선정) | hanium | x | [한이음 git 강의 후기 + git Leader 선정](https://nali.tistory.com/137) |
