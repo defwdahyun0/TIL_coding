@@ -59,6 +59,6 @@
 | **Collaborate** | 2021.01 ~ 2021.03 | Computer Science Study | DJC | [CS_2021WinterStudy](https://github.com/defwdahyun0/CS_2021WinterStudy) | [알고리즘/컴퓨터사이언스 스터디 회고](https://nali.tistory.com/125) |
 | **Collaborate** | 2021.01 ~ 2021.03 | Problem Solving Study | DJC | [PS_2021WinterStudy](https://github.com/defwdahyun0/PS_2021WinterStudy) [PS_2021WinterPractice](https://github.com/defwdahyun0/PS_2021WinterPractice) | [알고리즘/컴퓨터사이언스 스터디 회고](https://nali.tistory.com/125) |
 | **Book** | 2021.01 ~ 2021.03 | ReactNative | 처음 배우는 리액트 네이티브 | [ReactNative_2021WinterStudy](https://github.com/defwdahyun0/ReactNative_2021WinterStudy) | [처음 배우는 리액트 네이티브 리뷰](https://nali.tistory.com/124) |
-| **OnlineClass** | 2021.01 | JavaScript | opentutorials | [JS_2021WinterStudy](https://github.com/defwdahyun0/JS_2021WinterStudy) | [생활코딩 자바스크립트 인강 후기](https://nali.tistory.com/123)|
-| **Book** | 2019.08 | HTML,CSS | hellocoding | [HTMLCSS_2019SummerStudy](https://github.com/defwdahyun0/HTMLCSS_2019SummerStudy) | [HelloCoding HTML5+CSS3 리뷰](https://nali.tistory.com/120)|
+| **OnlineClass** | 2021.01 | JavaScript | opentutorials | [JS_2021WinterStudy](https://github.com/defwdahyun0/JS_2021WinterStudy) | [생활코딩 자바스크립트 인강 후기](https://nali.tistory.com/123) |
+| **Book** | 2019.08 | HTML,CSS | hellocoding | [HTMLCSS_2019SummerStudy](https://github.com/defwdahyun0/HTMLCSS_2019SummerStudy) | [HelloCoding HTML5+CSS3 리뷰](https://nali.tistory.com/120) |
 
